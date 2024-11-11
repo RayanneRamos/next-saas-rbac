@@ -18,8 +18,5 @@
     "apps/*",
     "packages/*",
     "config/*"
-  ],
-  "dependencies": {
-    "@fastify/jwt": "^9.0.1"
-  }
+  ]
 }
